@@ -47,7 +47,7 @@ export const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="imaginify"
+      uploadPreset="tma_imaginify"
       options={{
         multiple: false,
         resourceType: "image",
